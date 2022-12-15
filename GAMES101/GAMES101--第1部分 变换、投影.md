@@ -1,5 +1,11 @@
 [TOC]
 
+# VirtualBox挂载
+
+```shell
+sudo mount -t vboxsf Share share_dir
+```
+
 # 第1课	Overview of Computer Graphics
 
 1.   **光栅化**：将三维空间的几何形体显示在屏幕上
