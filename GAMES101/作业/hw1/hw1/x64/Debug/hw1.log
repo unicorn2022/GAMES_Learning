@@ -1,0 +1,55 @@
+﻿  main.cpp
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(53,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(65,21): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(66,24): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(67,27): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(70,33): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(71,33): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(72,33): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(113,62): warning C4305: “参数”: 从“double”到“float”截断
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\main.cpp(129,62): warning C4305: “参数”: 从“double”到“float”截断
+  rasterizer.cpp
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(41,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(42,10): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(43,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(44,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(52,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(53,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(54,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(58,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(59,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(60,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(62,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(62,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(84,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(84,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(92,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(93,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(94,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(98,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(99,15): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(100,16): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(102,52): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(102,49): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(124,56): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(124,53): warning C4244: “参数”: 从“int”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(144,33): warning C4305: “初始化”: 从“double”到“float”截断
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(145,33): warning C4305: “初始化”: 从“double”到“float”截断
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(164,33): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(165,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\rasterizer.cpp(235,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  Triangle.cpp
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Program\Library\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\Triangle.cpp(36,70): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\Triangle.cpp(36,53): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\code\Triangle.cpp(36,36): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  正在生成代码...
+  hw1.vcxproj -> E:\[学习笔记]\自学笔记\GAMES\GAMES101\作业\hw1\x64\Debug\hw1.exe
