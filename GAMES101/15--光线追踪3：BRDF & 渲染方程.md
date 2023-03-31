@@ -42,9 +42,9 @@
 
 <img src="AssetMarkdown/image-20230322174804469.png" alt="image-20230322174804469" style="zoom:80%;" />
 
-### 15.1.4	  Irradiate：单位面积的能量
+### 15.1.4	  Irradiance：单位面积的能量
 
-1. Irradiate：表面上**与光线垂直**的单位面积接收到的能量，$E(x)=\frac{d\phi(x)}{dA}$，单位**$\frac{W}{m^2}$，$\frac{lm}{m^2}$=lux**
+1. Irradiance：表面上**与光线垂直**的单位面积接收到的能量，$E(x)=\frac{d\phi(x)}{dA}$，单位**$\frac{W}{m^2}$，$\frac{lm}{m^2}$=lux**
 
    1. 如果表面与光线**不垂直**，则需要投影到垂直方向：$E(x)=\frac{d\phi(x)}{dA}\ \cos \theta$，$\theta$为光线与法线的夹角
 
@@ -66,8 +66,8 @@
 
 ### 15.1.6	Irradiance vs Radiance
 
-1. **Irradiance**：单位面积**dA**接收到的所有能量
-2. **Radiance**：单位面积**dA**在单位方向**dω**处接收到的所有能量
+1. **Irradiance**：单位面积**dA**接收到的所有能量，$E(p)$
+2. **Radiance**：单位面积**dA**在单位方向**dω**处接收到的所有能量，$L(p,\omega)$
 
 <img src="AssetMarkdown/image-20230323203503761.png" alt="image-20230323203503761" style="zoom:80%;" />
 
